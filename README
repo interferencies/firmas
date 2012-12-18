@@ -1,0 +1,16 @@
+Plugin para recoger firmas en Can Piella
+V. 1
+
+
+---
+Shortcodes
+---
+
+[form_firmas] -> Muestra el formulario para añdir firmas
+
+[show_firmas] -> Muestra un mensaje con el número de firmas
+
+
+HTN, 13 Dic 2012
+
+the end.
