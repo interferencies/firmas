@@ -1,11 +1,11 @@
 <?php
    /*
       Plugin Name: Recogida de Firmas
-      Plugin URI: http://canpiella.cat
+      Plugin URI: https://htn.laotracarboneria.net
       Description: Recoge firmas individuales y colectivas para paralizar desalojos
-      Version: 1.0
+      Version: 0.1
       Author: hackthenight
-      Author URI: http://htn.laotracarboneria.net
+      Author URI: https://htn.laotracarboneria.net
    */
    
    /*
